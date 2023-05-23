@@ -1,0 +1,27 @@
+.main-nav {
+    background-color: #ab3535;
+}
+
+.cart-widget{
+    float: right;
+}
+
+nav button{
+    color: white;
+    border-color: transparent;
+    background-color: transparent;
+    width: 15%;
+    height: 50px;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+nav button:hover {
+    background-color: white;
+    color: black;
+}
+
+nav h1{
+    padding-top: 2%;
+    font-size: 3em;
+}
